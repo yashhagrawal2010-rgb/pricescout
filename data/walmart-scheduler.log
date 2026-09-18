@@ -1,0 +1,843 @@
+Full run: 336 items
+[bananas] query "Bananas" failed: page.waitForTimeout: Target page, context or browser has been closed
+^CFull run: 336 items
+[bananas] query "Bananas" failed: page.waitForTimeout: Target page, context or browser has been closed
+Full run: 336 items
+[1/336] [bananas] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[2/336] [gala-apples] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[3/336] [baby-carrots] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[4/336] [broccoli-crowns] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[5/336] [romaine-lettuce] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[6/336] [tomatoes] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[7/336] [russet-potatoes] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[8/336] [yellow-onions] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[9/336] [avocados] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[10/336] [strawberries] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[11/336] [blueberries] matched via "blueberries per pound": $3.12
+Progress push failed (will retry after next item): fetch failed
+[12/336] [grapes] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[13/336] [watermelon] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[14/336] [spinach] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[15/336] [cucumbers] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[16/336] [bell-peppers] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[17/336] [sweet-potatoes] matched via "Sweet Potatoes": $1.52
+Progress push failed (will retry after next item): fetch failed
+[18/336] [red-apples] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[19/336] [green-apples] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[20/336] [oranges] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[21/336] [lemons] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[22/336] [limes] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[23/336] [pineapple] matched via "Pineapple": $4.62
+Progress push failed (will retry after next item): fetch failed
+[24/336] [mango] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[25/336] [peaches] matched via "Peaches": $1.97
+Progress push failed (will retry after next item): fetch failed
+[26/336] [pears] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[27/336] [plums] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[28/336] [cherries] matched via "Cherries": $5.89
+Progress push failed (will retry after next item): fetch failed
+[29/336] [raspberries] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[30/336] [blackberries] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[31/336] [kiwi] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[32/336] [cantaloupe] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[33/336] [honeydew] matched via "honeydew melon grocery": $4.24 (was $4.82)
+Progress push failed (will retry after next item): fetch failed
+[34/336] [pomegranate] matched via "Pomegranate": $2.54
+Progress push failed (will retry after next item): fetch failed
+[35/336] [celery] matched via "celery fruit": $2.14
+Progress push failed (will retry after next item): fetch failed
+[36/336] [zucchini] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[37/336] [yellow-squash] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[38/336] [cauliflower] matched via "cauliflower fruit": $3.12
+Progress push failed (will retry after next item): fetch failed
+[39/336] [green-beans] matched via "Green Beans": $2.7
+Progress push failed (will retry after next item): fetch failed
+[40/336] [asparagus] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[41/336] [mushrooms] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[42/336] [garlic] matched via "garlic produce": $0.96
+Progress push failed (will retry after next item): fetch failed
+[43/336] [fresh-ginger] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[44/336] [green-cabbage] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[45/336] [red-cabbage] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[46/336] [corn-on-the-cob] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[47/336] [cilantro] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[48/336] [parsley] matched via "Parsley": $1.08
+Progress push failed (will retry after next item): fetch failed
+[49/336] [fresh-basil] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[50/336] [green-onions] matched via "green onions fruit": $1.22
+Progress push failed (will retry after next item): fetch failed
+[51/336] [red-onions] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[52/336] [radishes] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[53/336] [beets] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[54/336] [brussels-sprouts] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[55/336] [kale] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[56/336] [arugula] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[57/336] [iceberg-lettuce] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[58/336] [snap-peas] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[59/336] [jalapenos] matched via "Jalapeño Peppers": $3.08
+Progress push failed (will retry after next item): fetch failed
+[60/336] [roma-tomatoes] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[61/336] [cherry-tomatoes] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[62/336] [eggplant] no match today (tried 8 queries)
+Progress push failed (will retry after next item): fetch failed
+[63/336] [whole-milk] no match today (tried 4 queries)
+Progress push failed (will retry after next item): fetch failed
+[64/336] [two-percent-milk] matched via "2% Milk": $4.78 (was $5.32)
+Progress push failed (will retry after next item): fetch failed
+[65/336] [large-eggs] no match today (tried 4 queries)
+Progress push failed (will retry after next item): fetch failed
+[66/336] [butter] matched via "Salted Butter": $4.96
+Progress push failed (will retry after next item): fetch failed
+[67/336] [shredded-cheddar] no match today (tried 4 queries)
+Progress push failed (will retry after next item): fetch failed
+[68/336] [american-cheese] matched via "American Cheese Slices": $4.58
+Progress push failed (will retry after next item): fetch failed
+[69/336] [greek-yogurt] matched via "Greek Yogurt": $4.67
+Progress push failed (will retry after next item): fetch failed
+[70/336] [sour-cream] matched via "Sour Cream": $2.64
+Progress push failed (will retry after next item): fetch failed
+[71/336] [orange-juice] matched via "Orange Juice": $4.52
+Progress push failed (will retry after next item): fetch failed
+[72/336] [cream-cheese] matched via "Cream Cheese": $2.97
+Progress push failed (will retry after next item): fetch failed
+[73/336] [cottage-cheese] matched via "Cottage Cheese": $2.87
+Progress push failed (will retry after next item): fetch failed
+[74/336] [almond-milk] matched via "Almond Milk": $4.82
+Progress push failed (will retry after next item): fetch failed
+[75/336] [oat-milk] matched via "Oat Milk": $4.97
+Progress push failed (will retry after next item): fetch failed
+[76/336] [organic-eggs] no match today (tried 4 queries)
+Progress push failed (will retry after next item): fetch failed
+[77/336] [egg-whites] matched via "Liquid Egg Whites": $4.87
+Progress push failed (will retry after next item): fetch failed
+[78/336] [skim-milk] matched via "skim milk grocery": $3.08
+Progress push failed (will retry after next item): fetch failed
+[79/336] [lactose-free-milk] matched via "Lactose-Free Milk": $4.78 (was $5.32)
+Progress push failed (will retry after next item): fetch failed
+[80/336] [heavy-cream] matched via "Heavy Whipping Cream": $2.96
+Progress push failed (will retry after next item): fetch failed
+[81/336] [half-and-half] matched via "Half & Half": $2.56
+Progress push failed (will retry after next item): fetch failed
+[82/336] [coffee-creamer] matched via "Coffee Creamer": $3.56
+Progress push failed (will retry after next item): fetch failed
+[83/336] [mozzarella] matched via "Shredded Mozzarella": $3.48
+Progress push failed (will retry after next item): fetch failed
+[84/336] [parmesan] matched via "Grated Parmesan": $4.63
+Progress push failed (will retry after next item): fetch failed
+[85/336] [swiss-cheese] matched via "Swiss Cheese Slices": $3.24
+Progress push failed (will retry after next item): fetch failed
+[86/336] [string-cheese] matched via "String Cheese": $5.58
+Progress push failed (will retry after next item): fetch failed
+[87/336] [cheddar-block] matched via "Cheddar Cheese Block": $4.17
+Progress push failed (will retry after next item): fetch failed
+[88/336] [feta-cheese] matched via "Feta Cheese": $4.42
+Progress push failed (will retry after next item): fetch failed
+[89/336] [plain-yogurt] matched via "Plain Yogurt": $4.67
+Progress push failed (will retry after next item): fetch failed
+[90/336] [yogurt-cups] no match today (tried 4 queries)
+Progress push failed (will retry after next item): fetch failed
+[91/336] [yogurt-tubes] matched via "yogurt tubes grocery": $4.77
+Progress push failed (will retry after next item): fetch failed
+[92/336] [margarine] no match today (tried 4 queries)
+Progress push failed (will retry after next item): fetch failed
+[93/336] [whipped-cream] no match today (tried 4 queries)
+Progress push failed (will retry after next item): fetch failed
+[94/336] [soy-milk] matched via "Soy Milk": $3.97
+Progress push failed (will retry after next item): fetch failed
+[95/336] [coconut-milk] matched via "Coconut Milk": $4
+Progress push failed (will retry after next item): fetch failed
+[96/336] [ricotta-cheese] no match today (tried 4 queries)
+Progress push failed (will retry after next item): fetch failed
+[97/336] [provolone] no match today (tried 4 queries)
+Progress push failed (will retry after next item): fetch failed
+[98/336] [unsalted-butter] matched via "unsalted butter grocery": $3.57
+Progress push failed (will retry after next item): fetch failed
+[99/336] [chicken-breast] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[100/336] [ground-beef] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[101/336] [bacon] matched via "Bacon": $6.49
+Progress push failed (will retry after next item): fetch failed
+[102/336] [pork-chops] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[103/336] [chicken-thighs] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[104/336] [italian-sausage] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[105/336] [deli-turkey] matched via "Sliced Deli Turkey": $9.88
+Progress push failed (will retry after next item): fetch failed
+[106/336] [salmon-fillet] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[107/336] [ground-turkey] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[108/336] [shrimp] matched via "Shrimp": $11.88
+Progress push failed (will retry after next item): fetch failed
+[109/336] [tilapia] matched via "Tilapia Fillets": $6.28
+Progress push failed (will retry after next item): fetch failed
+[110/336] [hot-dogs] matched via "Hot Dogs": $5.67
+Progress push failed (will retry after next item): fetch failed
+[111/336] [steak] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[112/336] [chicken-drumsticks] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[113/336] [chicken-wings] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[114/336] [whole-chicken] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[115/336] [ground-pork] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[116/336] [pork-tenderloin] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[117/336] [pork-ribs] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[118/336] [beef-brisket] matched via "Beef Brisket": $8.27
+Progress push failed (will retry after next item): fetch failed
+[119/336] [lean-ground-beef] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[120/336] [beef-stew-meat] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[121/336] [flank-steak] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[122/336] [sirloin-steak] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[123/336] [veal-cutlets] matched via "Veal Cutlets": $11.99
+Progress push failed (will retry after next item): fetch failed
+[124/336] [lamb-chops] matched via "lamb chops per lb": $13.47
+Progress push failed (will retry after next item): fetch failed
+[125/336] [turkey-breast-whole] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[126/336] [ground-chicken] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[127/336] [andouille-sausage] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[128/336] [breakfast-sausage] matched via "fresh breakfast sausage links": $3.97
+Progress push failed (will retry after next item): fetch failed
+[129/336] [salami] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[130/336] [pepperoni] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[131/336] [deli-ham] matched via "Sliced Deli Ham": $6.24
+Progress push failed (will retry after next item): fetch failed
+[132/336] [prosciutto] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[133/336] [smoked-salmon] matched via "Smoked Salmon": $6.48
+Progress push failed (will retry after next item): fetch failed
+[134/336] [cod-fillet] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[135/336] [crab-legs] matched via "Crab Legs": $14.23
+Progress push failed (will retry after next item): fetch failed
+[136/336] [lobster-tail] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[137/336] [scallops] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[138/336] [mussels] matched via "Mussels": $5.98
+Progress push failed (will retry after next item): fetch failed
+[139/336] [clams] matched via "Clams": $7.54
+Progress push failed (will retry after next item): fetch failed
+[140/336] [canned-tuna] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[141/336] [imitation-crab] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[142/336] [veggie-burgers] matched via "veggie burger patties meat department": $6.45 (was $7.45)
+Progress push failed (will retry after next item): fetch failed
+[143/336] [tofu] no match today (tried 5 queries)
+Progress push failed (will retry after next item): fetch failed
+[144/336] [white-bread] matched via "White Bread Loaf": $2.47
+Progress push failed (will retry after next item): fetch failed
+[145/336] [whole-wheat-bread] matched via "Whole Wheat Bread": $3.48
+Progress push failed (will retry after next item): fetch failed
+[146/336] [bagels] matched via "Plain Bagels": $2.97
+Progress push failed (will retry after next item): fetch failed
+[147/336] [english-muffins] matched via "English Muffins": $3.38 (was $3.77)
+Progress push failed (will retry after next item): fetch failed
+[148/336] [tortillas] matched via "Flour Tortillas": $3.72
+Progress push failed (will retry after next item): fetch failed
+[149/336] [dinner-rolls] no match today (tried 4 queries)
+Progress push failed (will retry after next item): fetch failed
+[150/336] [pita-bread] no match today (tried 4 queries)
+Progress push failed (will retry after next item): fetch failed
+[151/336] [croissants] matched via "Croissants": $4.98
+Progress push failed (will retry after next item): fetch failed
+[152/336] [muffins] matched via "Blueberry Muffins": $5.23
+Progress push failed (will retry after next item): fetch failed
+[153/336] [sourdough-bread] matched via "Sourdough Bread": $4.02
+Progress push failed (will retry after next item): fetch failed
+[154/336] [rye-bread] matched via "Rye Bread": $4.37
+Progress push failed (will retry after next item): fetch failed
+[155/336] [multigrain-bread] matched via "Multigrain Bread": $3.98
+Progress push failed (will retry after next item): fetch failed
+[156/336] [brioche-buns] no match today (tried 4 queries)
+Progress push failed (will retry after next item): fetch failed
+[157/336] [hot-dog-buns] matched via "Hot Dog Buns": $2.94 (was $3.27)
+Progress push failed (will retry after next item): fetch failed
+[158/336] [hamburger-buns] matched via "Hamburger Buns": $2.97
+Progress push failed (will retry after next item): fetch failed
+[159/336] [french-baguette] no match today (tried 4 queries)
+Progress push failed (will retry after next item): fetch failed
+[160/336] [cinnamon-rolls] matched via "Cinnamon Rolls": $4.47
+Progress push failed (will retry after next item): fetch failed
+[161/336] [donuts] matched via "Glazed Donuts": $4.97
+Progress push failed (will retry after next item): fetch failed
+[162/336] [chocolate-chip-cookies] matched via "Chocolate Chip Cookies": $4.97
+Progress push failed (will retry after next item): fetch failed
+[163/336] [brownie-bites] matched via "Brownie Bites": $5.94
+Progress push failed (will retry after next item): fetch failed
+[164/336] [cupcakes] matched via "Cupcakes": $6.74
+Progress push failed (will retry after next item): fetch failed
+[165/336] [birthday-cake] matched via "Birthday Cake": $11.75
+Progress push failed (will retry after next item): fetch failed
+[166/336] [pound-cake] matched via "Pound Cake": $6.52
+Progress push failed (will retry after next item): fetch failed
+[167/336] [pie-crust] matched via "Pie Crust": $3.88
+Progress push failed (will retry after next item): fetch failed
+[168/336] [apple-pie] matched via "Apple Pie": $9.92
+Progress push failed (will retry after next item): fetch failed
+[169/336] [naan-bread] no match today (tried 4 queries)
+Progress push failed (will retry after next item): fetch failed
+[170/336] [corn-tortillas] matched via "Corn Tortillas": $2.97
+Progress push failed (will retry after next item): fetch failed
+[171/336] [flatbread] no match today (tried 4 queries)
+Progress push failed (will retry after next item): fetch failed
+[172/336] [frozen-pizza] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[173/336] [frozen-mixed-veg] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[174/336] [ice-cream] matched via "Vanilla Ice Cream": $4.87
+Progress push failed (will retry after next item): fetch failed
+[175/336] [chicken-nuggets] matched via "Frozen Chicken Nuggets": $6.46
+Progress push failed (will retry after next item): fetch failed
+[176/336] [frozen-waffles] matched via "frozen waffles single": $2.68
+Progress push failed (will retry after next item): fetch failed
+[177/336] [french-fries] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[178/336] [frozen-berries] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[179/336] [frozen-burritos] matched via "Frozen Burritos": $5.47
+Progress push failed (will retry after next item): fetch failed
+[180/336] [edamame] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[181/336] [frozen-broccoli] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[182/336] [frozen-corn] matched via "Frozen Corn": $2.12
+Progress push failed (will retry after next item): fetch failed
+[183/336] [frozen-peas] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[184/336] [frozen-green-beans] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[185/336] [frozen-spinach] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[186/336] [frozen-stir-fry-veg] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[187/336] [frozen-mango] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[188/336] [frozen-pineapple] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[189/336] [frozen-shrimp] matched via "Frozen Shrimp (peeled)": $7.97 (was $8.97)
+Progress push failed (will retry after next item): fetch failed
+[190/336] [frozen-fish-sticks] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[191/336] [frozen-meatballs] matched via "Frozen Meatballs": $7.96
+Progress push failed (will retry after next item): fetch failed
+[192/336] [frozen-lasagna] matched via "frozen lasagna single": $9.84
+Progress push failed (will retry after next item): fetch failed
+[193/336] [frozen-mac-and-cheese] matched via "Frozen Mac & Cheese": $2.97
+Progress push failed (will retry after next item): fetch failed
+[194/336] [frozen-pot-pie] matched via "Frozen Chicken Pot Pie": $3.48
+Progress push failed (will retry after next item): fetch failed
+[195/336] [frozen-breakfast-sandwiches] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[196/336] [frozen-hash-browns] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[197/336] [frozen-tater-tots] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[198/336] [frozen-onion-rings] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[199/336] [frozen-garlic-bread] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[200/336] [popsicles] matched via "Popsicles": $3.32 (was $4.1)
+Progress push failed (will retry after next item): fetch failed
+[201/336] [ice-cream-sandwiches] matched via "Ice Cream Sandwiches": $6.87
+Progress push failed (will retry after next item): fetch failed
+[202/336] [frozen-fruit-bars] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[203/336] [frozen-dumplings] matched via "Frozen Dumplings": $5.87
+Progress push failed (will retry after next item): fetch failed
+[204/336] [frozen-cauliflower] matched via "Frozen Cauliflower": $2.24
+Progress push failed (will retry after next item): fetch failed
+[205/336] [frozen-chicken-breast] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[206/336] [paper-towels] matched via "Paper Towels": $10.98
+Progress push failed (will retry after next item): fetch failed
+[207/336] [toilet-paper] matched via "Toilet Paper": $14.97
+Progress push failed (will retry after next item): fetch failed
+[208/336] [dish-soap] matched via "Dish Soap": $3.98
+Progress push failed (will retry after next item): fetch failed
+[209/336] [laundry-detergent] matched via "Laundry Detergent": $13.49
+Progress push failed (will retry after next item): fetch failed
+[210/336] [trash-bags] matched via "Trash Bags": $10.98
+Progress push failed (will retry after next item): fetch failed
+[211/336] [paper-plates] matched via "Paper Plates": $6.21
+Progress push failed (will retry after next item): fetch failed
+[212/336] [all-purpose-cleaner] matched via "All-Purpose Cleaner": $3.98
+Progress push failed (will retry after next item): fetch failed
+[213/336] [hand-soap] matched via "Hand Soap": $6
+Progress push failed (will retry after next item): fetch failed
+[214/336] [sponges] matched via "Sponges": $4.68
+Progress push failed (will retry after next item): fetch failed
+[215/336] [napkins] matched via "Paper Napkins": $3.48
+Progress push failed (will retry after next item): fetch failed
+[216/336] [facial-tissue] matched via "Facial Tissue": $6.84
+Progress push failed (will retry after next item): fetch failed
+[217/336] [aluminum-foil] matched via "Aluminum Foil": $5.97
+Progress push failed (will retry after next item): fetch failed
+[218/336] [plastic-wrap] matched via "Plastic Wrap": $4.33
+Progress push failed (will retry after next item): fetch failed
+[219/336] [sandwich-bags] matched via "Sandwich Bags": $3.98
+Progress push failed (will retry after next item): fetch failed
+[220/336] [freezer-bags] matched via "Freezer Bags": $6.48
+Progress push failed (will retry after next item): fetch failed
+[221/336] [dishwasher-detergent] matched via "Dishwasher Detergent Pods": $13.94
+Progress push failed (will retry after next item): fetch failed
+[222/336] [fabric-softener] matched via "Fabric Softener": $8.27
+Progress push failed (will retry after next item): fetch failed
+[223/336] [bleach] matched via "Bleach": $4.83
+Progress push failed (will retry after next item): fetch failed
+[224/336] [glass-cleaner] matched via "Glass Cleaner": $4.48
+Progress push failed (will retry after next item): fetch failed
+[225/336] [toilet-bowl-cleaner] matched via "Toilet Bowl Cleaner": $2.82
+Progress push failed (will retry after next item): fetch failed
+[226/336] [air-freshener] matched via "Air Freshener Spray": $4.94
+Progress push failed (will retry after next item): fetch failed
+[227/336] [dryer-sheets] matched via "Dryer Sheets": $6.77
+Progress push failed (will retry after next item): fetch failed
+[228/336] [batteries-aa] matched via "AA Batteries": $11.89 (was $13.49)
+Progress push failed (will retry after next item): fetch failed
+[229/336] [lightbulbs] matched via "led lightbulbs household": $8.95
+Progress push failed (will retry after next item): fetch failed
+[230/336] [shampoo] matched via "Shampoo": $7.68
+Progress push failed (will retry after next item): fetch failed
+[231/336] [conditioner] matched via "Conditioner": $7.68
+Progress push failed (will retry after next item): fetch failed
+[232/336] [body-wash] matched via "Body Wash": $5.56
+Progress push failed (will retry after next item): fetch failed
+[233/336] [toothpaste] matched via "Toothpaste": $3.98
+Progress push failed (will retry after next item): fetch failed
+[234/336] [toothbrushes] matched via "toothbrushes household": $2.97
+Progress push failed (will retry after next item): fetch failed
+[235/336] [deodorant] matched via "Deodorant": $5.52
+Progress push failed (will retry after next item): fetch failed
+[236/336] [laundry-pods] matched via "Laundry Detergent Pods": $15
+Progress push failed (will retry after next item): fetch failed
+[237/336] [rubber-gloves] matched via "Rubber Gloves": $3.68
+Progress push failed (will retry after next item): fetch failed
+[238/336] [storage-containers] matched via "Food Storage Containers": $10.97
+Progress push failed (will retry after next item): fetch failed
+[239/336] [spaghetti] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[240/336] [marinara-sauce] matched via "Marinara Sauce": $3.96
+Progress push failed (will retry after next item): fetch failed
+[241/336] [white-rice] matched via "White Rice": $5.88
+Progress push failed (will retry after next item): fetch failed
+[242/336] [black-beans] matched via "Black Beans": $1.48
+Progress push failed (will retry after next item): fetch failed
+[243/336] [peanut-butter] matched via "Peanut Butter": $3.58 (was $3.98)
+Progress push failed (will retry after next item): fetch failed
+[244/336] [cheerios] matched via "Cheerios Cereal": $4.93
+Progress push failed (will retry after next item): fetch failed
+[245/336] [ground-coffee] matched via "Ground Coffee": $8.96 (was $9.96)
+Progress push failed (will retry after next item): fetch failed
+[246/336] [olive-oil] matched via "Olive Oil": $10.76
+Progress push failed (will retry after next item): fetch failed
+[247/336] [diced-tomatoes] matched via "Diced Tomatoes": $1.48
+Progress push failed (will retry after next item): fetch failed
+[248/336] [granulated-sugar] matched via "Granulated Sugar": $3.74
+Progress push failed (will retry after next item): fetch failed
+[249/336] [vegetable-oil] matched via "Vegetable Oil": $4.92
+Progress push failed (will retry after next item): fetch failed
+[250/336] [flour] matched via "All-Purpose Flour": $4.57
+Progress push failed (will retry after next item): fetch failed
+[251/336] [honey] matched via "Honey": $4.96
+Progress push failed (will retry after next item): fetch failed
+[252/336] [jelly] matched via "Grape Jelly": $3.14
+Progress push failed (will retry after next item): fetch failed
+[253/336] [canned-soup] matched via "Chicken Noodle Soup": $1.74
+Progress push failed (will retry after next item): fetch failed
+[254/336] [oatmeal] matched via "Oatmeal": $3.72
+Progress push failed (will retry after next item): fetch failed
+[255/336] [crackers] matched via "Crackers": $4.96
+Progress push failed (will retry after next item): fetch failed
+[256/336] [tortilla-chips] matched via "Tortilla Chips": $4.17 (was $5)
+Progress push failed (will retry after next item): fetch failed
+[257/336] [salsa] matched via "Salsa": $3.37
+Progress push failed (will retry after next item): fetch failed
+[258/336] [ketchup] matched via "Ketchup": $3.64 (was $4.48)
+Progress push failed (will retry after next item): fetch failed
+[259/336] [mustard] matched via "Yellow Mustard": $2.54
+Progress push failed (will retry after next item): fetch failed
+[260/336] [canned-corn] matched via "Canned Corn": $1.54
+Progress push failed (will retry after next item): fetch failed
+[261/336] [canned-green-beans] matched via "Canned Green Beans": $0.82
+Progress push failed (will retry after next item): fetch failed
+[262/336] [canned-peas] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[263/336] [canned-chickpeas] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[264/336] [canned-kidney-beans] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[265/336] [canned-pinto-beans] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[266/336] [tomato-sauce] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[267/336] [tomato-paste] matched via "Tomato Paste": $0.94
+Progress push failed (will retry after next item): fetch failed
+[268/336] [canned-pumpkin] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[269/336] [fruit-cocktail] matched via "Canned Fruit Cocktail": $2.62
+Progress push failed (will retry after next item): fetch failed
+[270/336] [applesauce] matched via "Applesauce": $2.68
+Progress push failed (will retry after next item): fetch failed
+[271/336] [chicken-broth] matched via "Chicken Broth": $2.27
+Progress push failed (will retry after next item): fetch failed
+[272/336] [beef-broth] matched via "Beef Broth": $3
+Progress push failed (will retry after next item): fetch failed
+[273/336] [vegetable-broth] matched via "Vegetable Broth": $2.97
+Progress push failed (will retry after next item): fetch failed
+[274/336] [tomato-soup] matched via "Tomato Soup": $1.48
+Progress push failed (will retry after next item): fetch failed
+[275/336] [minestrone-soup] matched via "Minestrone Soup": $2.48
+Progress push failed (will retry after next item): fetch failed
+[276/336] [mac-and-cheese-box] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[277/336] [penne-pasta] matched via "Penne Pasta": $1.96
+Progress push failed (will retry after next item): fetch failed
+[278/336] [rotini-pasta] matched via "Rotini Pasta": $2.34
+Progress push failed (will retry after next item): fetch failed
+[279/336] [lasagna-noodles] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[280/336] [egg-noodles] matched via "Egg Noodles": $2.48
+Progress push failed (will retry after next item): fetch failed
+[281/336] [brown-rice] matched via "Brown Rice": $6.62
+Progress push failed (will retry after next item): fetch failed
+[282/336] [jasmine-rice] matched via "Jasmine Rice": $7.23 (was $18.76)
+Progress push failed (will retry after next item): fetch failed
+[283/336] [quinoa] matched via "Quinoa": $5.74
+Progress push failed (will retry after next item): fetch failed
+[284/336] [couscous] matched via "Couscous": $3.09
+Progress push failed (will retry after next item): fetch failed
+[285/336] [bread-crumbs] matched via "Bread Crumbs": $2.67
+Progress push failed (will retry after next item): fetch failed
+[286/336] [panko] matched via "Panko Bread Crumbs": $2.67
+Progress push failed (will retry after next item): fetch failed
+[287/336] [baking-soda] matched via "Baking Soda": $1.18
+Progress push failed (will retry after next item): fetch failed
+[288/336] [baking-powder] matched via "Baking Powder": $2.47
+Progress push failed (will retry after next item): fetch failed
+[289/336] [brown-sugar] matched via "Brown Sugar": $3.74
+Progress push failed (will retry after next item): fetch failed
+[290/336] [powdered-sugar] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[291/336] [vanilla-extract] matched via "Vanilla Extract": $6.12 (was $7.11)
+Progress push failed (will retry after next item): fetch failed
+[292/336] [chocolate-chips] matched via "Chocolate Chips": $3.86
+Progress push failed (will retry after next item): fetch failed
+[293/336] [cake-mix] matched via "Cake Mix": $2.7
+Progress push failed (will retry after next item): fetch failed
+[294/336] [brownie-mix] matched via "Brownie Mix": $3.02
+Progress push failed (will retry after next item): fetch failed
+[295/336] [pancake-mix] matched via "Pancake Mix": $4.57
+Progress push failed (will retry after next item): fetch failed
+[296/336] [maple-syrup] matched via "Maple Syrup": $7.96
+Progress push failed (will retry after next item): fetch failed
+[297/336] [cooking-spray] matched via "Cooking Spray": $3.77
+Progress push failed (will retry after next item): fetch failed
+[298/336] [black-pepper] matched via "Black Pepper": $4.98 (was $6.58)
+Progress push failed (will retry after next item): fetch failed
+[299/336] [table-salt] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[300/336] [ground-cinnamon] matched via "Ground Cinnamon": $4.22
+Progress push failed (will retry after next item): fetch failed
+[301/336] [garlic-powder] matched via "Garlic Powder": $3.18
+Progress push failed (will retry after next item): fetch failed
+[302/336] [italian-seasoning] matched via "Italian Seasoning": $2.99
+Progress push failed (will retry after next item): fetch failed
+[303/336] [chili-powder] matched via "Chili Powder": $4.22
+Progress push failed (will retry after next item): fetch failed
+[304/336] [soy-sauce] matched via "Soy Sauce": $3.36
+Progress push failed (will retry after next item): fetch failed
+[305/336] [hot-sauce] matched via "Hot Sauce": $3.54 (was $3.97)
+Progress push failed (will retry after next item): fetch failed
+[306/336] [bbq-sauce] matched via "BBQ Sauce": $3.58 (was $9.99)
+Progress push failed (will retry after next item): fetch failed
+[307/336] [mayonnaise] matched via "Mayonnaise": $5.32
+Progress push failed (will retry after next item): fetch failed
+[308/336] [ranch-dressing] matched via "Ranch Dressing": $4.16 (was $5.15)
+Progress push failed (will retry after next item): fetch failed
+[309/336] [italian-dressing] matched via "Italian Dressing": $4.16 (was $5.15)
+Progress push failed (will retry after next item): fetch failed
+[310/336] [balsamic-vinegar] matched via "Balsamic Vinegar": $6.27
+Progress push failed (will retry after next item): fetch failed
+[311/336] [apple-cider-vinegar] matched via "Apple Cider Vinegar": $4.96
+Progress push failed (will retry after next item): fetch failed
+[312/336] [almond-butter] matched via "Almond Butter": $9.39
+Progress push failed (will retry after next item): fetch failed
+[313/336] [granola] matched via "Granola": $5.26
+Progress push failed (will retry after next item): fetch failed
+[314/336] [granola-bars] matched via "Granola Bars": $4.42
+Progress push failed (will retry after next item): fetch failed
+[315/336] [protein-bars] matched via "Protein Bars": $16.94
+Progress push failed (will retry after next item): fetch failed
+[316/336] [trail-mix] matched via "Trail Mix": $6.28
+Progress push failed (will retry after next item): fetch failed
+[317/336] [almonds] matched via "Almonds": $8.72
+Progress push failed (will retry after next item): fetch failed
+[318/336] [cashews] matched via "Cashews": $8.98
+Progress push failed (will retry after next item): fetch failed
+[319/336] [walnuts] matched via "Walnuts": $7.48 (was $9.47)
+Progress push failed (will retry after next item): fetch failed
+[320/336] [raisins] matched via "Raisins": $3.36
+Progress push failed (will retry after next item): fetch failed
+[321/336] [dried-cranberries] matched via "Dried Cranberries": $3.62
+Progress push failed (will retry after next item): fetch failed
+[322/336] [popcorn] matched via "Microwave Popcorn": $4.57
+Progress push failed (will retry after next item): fetch failed
+[323/336] [pretzels] matched via "Pretzels": $3.46
+Progress push failed (will retry after next item): fetch failed
+[324/336] [potato-chips] matched via "Potato Chips": $3.98
+Progress push failed (will retry after next item): fetch failed
+[325/336] [cheese-crackers] matched via "Cheese Crackers": $3.52
+Progress push failed (will retry after next item): fetch failed
+[326/336] [fruit-snacks] matched via "Fruit Snacks": $4.67
+Progress push failed (will retry after next item): fetch failed
+[327/336] [instant-coffee] matched via "Instant Coffee": $8.77
+Progress push failed (will retry after next item): fetch failed
+[328/336] [tea-bags] matched via "Tea Bags": $5.62
+Progress push failed (will retry after next item): fetch failed
+[329/336] [hot-cocoa-mix] matched via "Hot Cocoa Mix": $3.22
+Progress push failed (will retry after next item): fetch failed
+[330/336] [sparkling-water] matched via "Sparkling Water": $6.54
+Progress push failed (will retry after next item): fetch failed
+[331/336] [cola] matched via "Cola 12-Pack": $7.78 (was $8.78)
+Progress push failed (will retry after next item): fetch failed
+[332/336] [bottled-water] matched via "bottled water single": $5.88
+Progress push failed (will retry after next item): fetch failed
+[333/336] [sports-drink] matched via "Sports Drink": $6.98 (was $7.98)
+Progress push failed (will retry after next item): fetch failed
+[334/336] [juice-boxes] no match today (tried 3 queries)
+Progress push failed (will retry after next item): fetch failed
+[335/336] [apple-juice] matched via "Apple Juice": $3.74
+Progress push failed (will retry after next item): fetch failed
+[336/336] [energy-drink] matched via "Energy Drink 4-Pack": $9.48
+Progress push failed (will retry after next item): fetch failed
+
+--- Run summary ---
+{
+  "ranAt": "2026-08-22T01:28:43.129Z",
+  "durationMinutes": 220,
+  "totalItems": 336,
+  "matchedCount": 211,
+  "unmatchedCount": 125,
+  "unmatchedIds": [
+    "bananas",
+    "gala-apples",
+    "baby-carrots",
+    "broccoli-crowns",
+    "romaine-lettuce",
+    "tomatoes",
+    "russet-potatoes",
+    "yellow-onions",
+    "avocados",
+    "strawberries",
+    "grapes",
+    "watermelon",
+    "spinach",
+    "cucumbers",
+    "bell-peppers",
+    "red-apples",
+    "green-apples",
+    "oranges",
+    "lemons",
+    "limes",
+    "mango",
+    "pears",
+    "plums",
+    "raspberries",
+    "blackberries",
+    "kiwi",
+    "cantaloupe",
+    "zucchini",
+    "yellow-squash",
+    "asparagus",
+    "mushrooms",
+    "fresh-ginger",
+    "green-cabbage",
+    "red-cabbage",
+    "corn-on-the-cob",
+    "cilantro",
+    "fresh-basil",
+    "red-onions",
+    "radishes",
+    "beets",
+    "brussels-sprouts",
+    "kale",
+    "arugula",
+    "iceberg-lettuce",
+    "snap-peas",
+    "roma-tomatoes",
+    "cherry-tomatoes",
+    "eggplant",
+    "whole-milk",
+    "large-eggs",
+    "shredded-cheddar",
+    "organic-eggs",
+    "yogurt-cups",
+    "margarine",
+    "whipped-cream",
+    "ricotta-cheese",
+    "provolone",
+    "chicken-breast",
+    "ground-beef",
+    "pork-chops",
+    "chicken-thighs",
+    "italian-sausage",
+    "salmon-fillet",
+    "ground-turkey",
+    "steak",
+    "chicken-drumsticks",
+    "chicken-wings",
+    "whole-chicken",
+    "ground-pork",
+    "pork-tenderloin",
+    "pork-ribs",
+    "lean-ground-beef",
+    "beef-stew-meat",
+    "flank-steak",
+    "sirloin-steak",
+    "turkey-breast-whole",
+    "ground-chicken",
+    "andouille-sausage",
+    "salami",
+    "pepperoni",
+    "prosciutto",
+    "cod-fillet",
+    "lobster-tail",
+    "scallops",
+    "canned-tuna",
+    "imitation-crab",
+    "tofu",
+    "dinner-rolls",
+    "pita-bread",
+    "brioche-buns",
+    "french-baguette",
+    "naan-bread",
+    "flatbread",
+    "frozen-pizza",
+    "frozen-mixed-veg",
+    "french-fries",
+    "frozen-berries",
+    "edamame",
+    "frozen-broccoli",
+    "frozen-peas",
+    "frozen-green-beans",
+    "frozen-spinach",
+    "frozen-stir-fry-veg",
+    "frozen-mango",
+    "frozen-pineapple",
+    "frozen-fish-sticks",
+    "frozen-breakfast-sandwiches",
+    "frozen-hash-browns",
+    "frozen-tater-tots",
+    "frozen-onion-rings",
+    "frozen-garlic-bread",
+    "frozen-fruit-bars",
+    "frozen-chicken-breast",
+    "spaghetti",
+    "canned-peas",
+    "canned-chickpeas",
+    "canned-kidney-beans",
+    "canned-pinto-beans",
+    "tomato-sauce",
+    "canned-pumpkin",
+    "mac-and-cheese-box",
+    "lasagna-noodles",
+    "powdered-sugar",
+    "table-salt",
+    "juice-boxes"
+  ],
+  "totalQueriesRun": 940
+}
+Full run: 336 items
+Ingest endpoint reachable at http://localhost:2000/api/walmart-ingest.
+[bananas] query "Bananas" failed: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://www.walmart.com/search?q=Bananas", waiting until "load"[22m
+
+[bananas] query "fresh bananas" failed: page.goto: Target page, context or browser has been closed
+Full run: 336 items
+
+Cannot reach ingest endpoint at http://localhost:2000/api/walmart-ingest: fetch failed
+Make sure the app is running there before starting a scrape (e.g. "npm run dev" locally, or that WALMART_INGEST_URL points at a live deployment) and that WALMART_INGEST_TOKEN matches on both sides.
+Aborting before starting the multi-hour scrape.
+
+npm notice
+npm notice New major version of npm available! 11.16.0 -> 12.0.2
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.0.2
+npm notice To update run: npm install -g npm@12.0.2
+npm notice
+Full run: 336 items
+
+Cannot reach ingest endpoint at http://localhost:2000/api/walmart-ingest: fetch failed
+Make sure the app is running there before starting a scrape (e.g. "npm run dev" locally, or that WALMART_INGEST_URL points at a live deployment) and that WALMART_INGEST_TOKEN matches on both sides.
+Aborting before starting the multi-hour scrape.
+
+npm notice
+npm notice New major version of npm available! 11.16.0 -> 12.0.2
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.0.2
+npm notice To update run: npm install -g npm@12.0.2
+npm notice

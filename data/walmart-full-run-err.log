@@ -1,0 +1,4 @@
+[beets] query "beets lb" failed: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.walmart.com/search?q=beets%20lb", waiting until "load"[22m
+
